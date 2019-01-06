@@ -1,0 +1,3 @@
+rootProject.name = 'zoodify_plugin'
+
+include ':app'
